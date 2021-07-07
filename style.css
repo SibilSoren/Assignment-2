@@ -1,0 +1,170 @@
+header .container-fluid {
+  background-image: url(./images/home_wallpaper.png);
+  height: 60vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg {
+  padding: 0;
+}
+
+header .gradient-overlay {
+  padding: 0;
+  background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707);
+  background-size: cover;
+}
+
+nav .container {
+  height: 100px;
+  /* background-color: #4f0707; */
+}
+
+li {
+  color: white;
+  list-style: none;
+}
+.buttons {
+  align-items: center;
+}
+.login {
+  margin-left: 100px;
+  cursor: pointer;
+}
+.createAccount {
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.logo{
+    padding-top: 40px;
+    height: 145px;
+    width: 145px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.logo h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #eb2929;
+    font-size: 70px;
+}
+
+.container h2{
+    text-align: center;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+
+.input-group-lg>.custom-select, .input-group-lg>.form-control:not(textarea) {
+    height: calc(1.5em + 1rem + 2px);
+    font-size: 1rem;
+}
+.input-group-lg>.custom-select, .input-group-lg>.form-control, .input-group-lg>.input-group-append>.btn, .input-group-lg>.input-group-append>.input-group-text, .input-group-lg>.input-group-prepend>.btn, .input-group-lg>.input-group-prepend>.input-group-text{
+    border-radius: 0;
+}
+.bi {
+    height: inherit;
+background-color: #ffffff;
+}
+
+.container .form-control{
+    border-radius: 0;
+    border: 0px solid rgb(206, 212, 218);
+    transition: none
+}
+
+.container .form-control:focus{
+    box-shadow: none;
+    font-size: 1rem;
+}
+
+.searchIcon{
+    height: auto;
+    color: #636f88;
+    background-color: #ffffff;
+}
+
+.a{
+    background-color: #ffffff;
+}
+
+.inputBlock{
+    width: 60%;
+}
+
+.bottom h2{
+    font-family: "Poppins", sans-serif;
+    color: #192f60;
+    font-weight: 800;
+    text-align: start;
+}
+
+.bottom p{
+    font-family: "Poppins", sans-serif;
+    color: #8c96ab;
+}
+
+
+.itemContainer{
+    width: 360px;
+    height: 160px;
+    padding-left: 0;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    
+}
+.item1{
+    width: 160px;
+    height: 160px;
+    background-image: url(./images/image1.png);
+    background-repeat: no-repeat;
+}
+
+.itemImage1{
+    width: 160px;
+    height: 160px;
+    
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.itemBG1{
+    background-image: url(./images/image1.png);
+}
+
+.itemBG2{
+    background-image: url(./images/lunch.png);
+}
+
+.itemBG3{
+    background-image: url(./images/snacks.png);
+}
+
+.itemBG4{
+    background-image: url(./images/dinner.png);
+}
+
+.itemBG5{
+    background-image: url(./images/drinks.png);
+}
+
+.itemBG6{
+    background-image: url(./images/nightlife.png);
+}
+
+.itemTextDescription{
+    font-size: small;
+    color: #8c96ab;
+}
+
+.itemTextHead{
+    font-weight: 700;
+    color: #192f60;
+}
+
