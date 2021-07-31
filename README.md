@@ -5,3 +5,5 @@ In this assignment we used Bootstrap along side HTML and CSS for making responsi
 Live link below:- </br>
 
 [Assignment 2](https://sibilsoren.github.io/Assignment-2/)
+
+![Assignment Screenshot](./images/assignment2.JPG)
