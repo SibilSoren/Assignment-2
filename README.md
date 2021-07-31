@@ -6,8 +6,4 @@ Live link below:- </br>
 
 [Assignment 2](https://sibilsoren.github.io/Assignment-2/)
 
-<<<<<<< HEAD
 ![Assignment Screenshot](./images/assignment2.JPG)
-=======
-
->>>>>>> 423e54df7b8c3b4f15ede9d3405d42bee855ca1c
