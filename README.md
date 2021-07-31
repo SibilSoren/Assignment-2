@@ -7,4 +7,3 @@ Live link below:- </br>
 [Assignment 2](https://sibilsoren.github.io/Assignment-2/)
 
 
-![Assignment Screenshot](./images/assignment2.JPG)
